@@ -37,7 +37,7 @@ button:hover {
 
 /* Estilos de la imagen */
 .imagen {
-    width: 400px; /* Ancho de la imagen */
+    width: 200px; /* Ancho de la imagen */
     height: auto; /* Altura automática para mantener la proporción */
     animation: girar 3s linear infinite; /* Animación de rotación */
 }
@@ -48,7 +48,7 @@ button:hover {
 
 /* Estilos de la imagen */
 .imagen-esquina {
-    width: 400px; /* Ancho de las imágenes */
+    width: 200px; /* Ancho de las imágenes */
     height: auto; /* Altura automática para mantener la proporción */
     position: absolute; /* Posición absoluta para posicionar las imágenes */
     animation: girar 3s linear infinite; /* Animación de rotación */

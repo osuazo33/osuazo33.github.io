@@ -83,3 +83,11 @@ button:hover {
     bottom: 0;
     right: 0;
 }
+/* En tu archivo styles.css */
+@media (max-width: 768px) {
+    /* Estilos para dispositivos con ancho máximo de 768px (tabletas y móviles) */
+    .imagen-esquina {
+        width: 50px; /* Ancho más pequeño para dispositivos móviles */
+    }
+}
+

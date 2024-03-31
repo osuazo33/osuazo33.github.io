@@ -48,7 +48,7 @@ button:hover {
 
 /* Estilos de la imagen */
 .imagen-esquina {
-    width: 400px; /* Ancho de las imágenes */
+    width: 600px; /* Ancho de las imágenes */
     height: auto; /* Altura automática para mantener la proporción */
     position: absolute; /* Posición absoluta para posicionar las imágenes */
     animation: girar 3s linear infinite; /* Animación de rotación */
@@ -87,7 +87,7 @@ button:hover {
 @media (max-width: 768px) {
     /* Estilos para dispositivos con ancho máximo de 768px (tabletas y móviles) */
     .imagen-esquina {
-        width: 50px; /* Ancho más pequeño para dispositivos móviles */
+        width: 45px; /* Ancho más pequeño para dispositivos móviles */
     }
 }
 
